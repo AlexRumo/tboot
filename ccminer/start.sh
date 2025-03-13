@@ -1,4 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
+#!/bin/sh
 #exit existing screens with the name CCminer
 screen -S CCminer -X quit 1>/dev/null 2>&1
 #wipe any existing (dead) screens)
