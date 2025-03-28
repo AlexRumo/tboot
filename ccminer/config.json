@@ -10,7 +10,7 @@
 	
 	"user": "RF56WKqaJ894q4wxy1GRJdozKgeXavNuhP.PhoneR9a002",
 	"algo": "verus",
-	"threads": 4,
+	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
